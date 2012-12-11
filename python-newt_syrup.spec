@@ -32,3 +32,10 @@ rm -rf %{buildroot}
 %files
 %doc AUTHORS ChangeLog COPYING
 %{python_sitelib}/*
+
+
+%changelog
+* Fri May 25 2012 Guilherme Moro <guilherme@mandriva.com> 0.2.0-1
++ Revision: 800561
+- imported package python-newt_syrup
+
