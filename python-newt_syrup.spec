@@ -1,7 +1,7 @@
 Summary:       Newt Syrup is an app framework built on top of Newt
 Name:          python-newt_syrup
 Version:       0.2.0
-Release:       1
+Release:       2
 License:       LGPLv2+
 Url:           http://newt-syrup.fedorahosted.org/
 Source0:        http://mcpierce.fedorapeople.org/rpms/newt_syrup-%{version}.tar.gz
