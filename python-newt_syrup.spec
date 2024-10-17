@@ -3,7 +3,7 @@ Name:          python-newt_syrup
 Version:       0.2.0
 Release:       2
 License:       LGPLv2+
-Url:           http://newt-syrup.fedorahosted.org/
+Url:           https://newt-syrup.fedorahosted.org/
 Source0:        http://mcpierce.fedorapeople.org/rpms/newt_syrup-%{version}.tar.gz
 Group:         Development/Python
 BuildArch:     noarch
